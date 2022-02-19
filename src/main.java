@@ -69,5 +69,3 @@ public class main {
         System.out.printf("You have %s kilometers to go\n", b);
     }
 }
-
-
